@@ -117,7 +117,11 @@ lib/
 
 ---
 
-## 4. BẰNG CHỨNG THỰC NGHIỆM & HÌNH ẢNH MINH HỌA (SCREENSHOTS)
+## 4. BẰNG CHỨNG THỰC NGHIỆM & HÌNH ẢNH MINH HỌA (SCREENSHOTS) 
+
+<a href="https://drive.google.com/file/d/1LTwUB-ftjt-856LSloJA0aCK1n0rDu6y/view?usp=sharing">
+  Xem video tại đây
+</a>
 
 ### 📸 Hình ảnh 1: Màn hình Trang chủ & Thẻ Quỹ Ngân sách thời gian thực (`DashboardView`)
 * **Mô tả minh họa:** Thể hiện phong cách FinTech hiện đại với thẻ **Hero Ngân Sách Chi Tiêu** (`BankHeroCard`). Hiển thị số dư còn lại trực quan (`3.880.000 ₫`), thanh tiến độ chi tiêu (`Đã chi: 1.120.000 ₫ / Quỹ: 5.000.000 ₫ (22%)`), nút chuyển đổi ẩn/hiện số dư bảo mật, nút bấm nhanh *"Đặt ngân sách"*, 4 phím tắt ngân hàng tròn (`Quét hóa đơn`, `Thêm chi tiêu`, `Thống kê`, `Lịch sử`), lưới 5 danh mục quỹ và danh sách giao dịch gần đây kèm trạng thái `Thành công`.
